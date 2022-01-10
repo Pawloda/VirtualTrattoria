@@ -1,0 +1,102 @@
+[
+  {
+    "number": 1.0,
+    "orderDate": {
+      "date": {
+        "year": 2022.0,
+        "month": 1.0,
+        "day": 7.0
+      },
+      "time": {
+        "hour": 17.0,
+        "minute": 15.0,
+        "second": 30.0,
+        "nano": 3.914698E8
+      }
+    },
+    "customerFirstName": "Paul",
+    "customerSecondName": "Hanks",
+    "customerAddress": "Red Street 43",
+    "pizzas": [
+      {
+        "pizzaName": "MARGHERITA",
+        "extraIngredients": [
+          "PEPPER",
+          "SALAMI"
+        ]
+      },
+      {
+        "pizzaName": "CALZONE",
+        "extraIngredients": [
+          "CHEESE"
+        ]
+      }
+    ],
+    "amount": 45.98
+  },
+  {
+    "number": 2.0,
+    "orderDate": {
+      "date": {
+        "year": 2022.0,
+        "month": 1.0,
+        "day": 7.0
+      },
+      "time": {
+        "hour": 17.0,
+        "minute": 16.0,
+        "second": 16.0,
+        "nano": 4.372612E8
+      }
+    },
+    "customerFirstName": "Mike",
+    "customerSecondName": "Black",
+    "customerAddress": "Port Street 32",
+    "pizzas": [
+      {
+        "pizzaName": "CAPRICIOSA",
+        "extraIngredients": [
+          "CHEESE",
+          "PEPPER",
+          "SALAMI"
+        ]
+      }
+    ],
+    "amount": 30.99
+  },
+  {
+    "number": 3,
+    "orderDate": {
+      "date": {
+        "year": 2022,
+        "month": 1,
+        "day": 10
+      },
+      "time": {
+        "hour": 15,
+        "minute": 8,
+        "second": 10,
+        "nano": 275227300
+      }
+    },
+    "customerFirstName": "Steve",
+    "customerSecondName": "Mockito",
+    "customerAddress": "Nice Street 12",
+    "pizzas": [
+      {
+        "pizzaName": "CALZONE",
+        "extraIngredients": [
+          "SALAMI"
+        ]
+      },
+      {
+        "pizzaName": "CAPRICIOSA",
+        "extraIngredients": [
+          "PEPPER",
+          "PINEAPPLE"
+        ]
+      }
+    ],
+    "amount": 50.98
+  }
+]
